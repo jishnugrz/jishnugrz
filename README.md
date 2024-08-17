@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jishnugrz
-- 👀 I’m interested in ... travep
+- 👀 I’m interested in ... traveling
 - 🌱 I’m currently learning ... hacking
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...mail me
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... nothing
 
 <!---
 jishnugrz/jishnugrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
